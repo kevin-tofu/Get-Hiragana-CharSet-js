@@ -42,12 +42,6 @@ function export_array_as_file(path_dst, array) {
   })
   logger.write(endOfLine)
 }
-  
-
-function get_hiragana() {
-  
-  return hiragana
-}
 
 function main(){
 
